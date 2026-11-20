@@ -1,0 +1,7 @@
+{
+  "raw_rows":7999.0,
+  "dropped_missing":3.0,
+  "dropped_negative_ammonia":10.0,
+  "clean_rows":7986.0,
+  "safe_rate":0.1139
+}

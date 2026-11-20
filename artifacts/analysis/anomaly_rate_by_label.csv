@@ -1,0 +1,3 @@
+,anom_if,anom_lof,anom_dbscan,anomaly
+unsafe (0),0.053,0.047,0.002,0.007
+safe (1),0.027,0.074,0.003,0.009

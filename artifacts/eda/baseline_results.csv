@@ -1,0 +1,4 @@
+model,accuracy,precision_safe,recall_safe,F1_safe,PR_AUC
+Dummy (always unsafe),0.886,0.0,0.0,0.0,0.114
+LogReg (no weights),0.907,0.687,0.333,0.449,0.553
+LogReg (class_weight=balanced),0.801,0.338,0.773,0.47,0.503

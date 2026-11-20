@@ -1,0 +1,3 @@
+category,label_safe,label_unsafe
+anomaly + confirmed violation,8,49
+confirmed violation only,902,7027

@@ -1,0 +1,45 @@
+{
+  "explained_variance_ratio": [
+    0.2061,
+    0.084,
+    0.0702,
+    0.0565,
+    0.0542,
+    0.0518,
+    0.0509,
+    0.0499,
+    0.0492,
+    0.0458,
+    0.0445,
+    0.0372,
+    0.0352,
+    0.0313,
+    0.0294,
+    0.0253,
+    0.023,
+    0.022,
+    0.02,
+    0.0135
+  ],
+  "components_for_90pct": 16,
+  "top_loadings": {
+    "PC1": [
+      "chloramine",
+      "perchlorate",
+      "chromium",
+      "silver"
+    ],
+    "PC2": [
+      "bacteria",
+      "viruses",
+      "aluminium",
+      "copper"
+    ],
+    "PC3": [
+      "cadmium",
+      "arsenic",
+      "copper",
+      "lead"
+    ]
+  }
+}

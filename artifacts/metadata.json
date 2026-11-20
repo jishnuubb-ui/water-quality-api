@@ -1,0 +1,160 @@
+{
+  "created_utc": "2026-11-20T04:41:39+00:00",
+  "sklearn_version": "1.9.1",
+  "features": [
+    "aluminium",
+    "ammonia",
+    "arsenic",
+    "barium",
+    "cadmium",
+    "chloramine",
+    "chromium",
+    "copper",
+    "fluoride",
+    "bacteria",
+    "viruses",
+    "lead",
+    "nitrates",
+    "nitrites",
+    "mercury",
+    "perchlorate",
+    "radium",
+    "selenium",
+    "silver",
+    "uranium"
+  ],
+  "classifier": "RandomForest (tuned)",
+  "imbalance_strategy": "none",
+  "threshold": 0.389,
+  "cv_metrics": {
+    "precision": 0.8842,
+    "recall": 0.8308,
+    "F1": 0.8567,
+    "PR_AUC": 0.9374
+  },
+  "training_rows": 7986,
+  "safe_rate": 0.1139,
+  "kmeans_k": 2,
+  "feature_stats": {
+    "aluminium": {
+      "min": 0.0,
+      "max": 5.05,
+      "mean": 0.6656811920861507,
+      "median": 0.07
+    },
+    "ammonia": {
+      "min": 0.0,
+      "max": 29.84,
+      "mean": 14.296140746306037,
+      "median": 14.15
+    },
+    "arsenic": {
+      "min": 0.0,
+      "max": 1.05,
+      "mean": 0.16100801402454296,
+      "median": 0.05
+    },
+    "barium": {
+      "min": 0.0,
+      "max": 4.94,
+      "mean": 1.5660618582519408,
+      "median": 1.19
+    },
+    "cadmium": {
+      "min": 0.0,
+      "max": 0.13,
+      "mean": 0.042744302529426494,
+      "median": 0.04
+    },
+    "chloramine": {
+      "min": 0.0,
+      "max": 8.68,
+      "mean": 2.17606937139995,
+      "median": 0.53
+    },
+    "chromium": {
+      "min": 0.0,
+      "max": 0.9,
+      "mean": 0.24702854996243426,
+      "median": 0.09
+    },
+    "copper": {
+      "min": 0.0,
+      "max": 2.0,
+      "mean": 0.8060180315552217,
+      "median": 0.75
+    },
+    "fluoride": {
+      "min": 0.0,
+      "max": 1.5,
+      "mean": 0.771725519659404,
+      "median": 0.77
+    },
+    "bacteria": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.3195003756574004,
+      "median": 0.22
+    },
+    "viruses": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.32822865013774105,
+      "median": 0.008
+    },
+    "lead": {
+      "min": 0.0,
+      "max": 0.2,
+      "mean": 0.09947871274730781,
+      "median": 0.102
+    },
+    "nitrates": {
+      "min": 0.0,
+      "max": 19.83,
+      "mean": 9.816521412471827,
+      "median": 9.925
+    },
+    "nitrites": {
+      "min": 0.0,
+      "max": 2.93,
+      "mean": 1.3292837465564737,
+      "median": 1.42
+    },
+    "mercury": {
+      "min": 0.0,
+      "max": 0.01,
+      "mean": 0.0051900826446281,
+      "median": 0.005
+    },
+    "perchlorate": {
+      "min": 0.0,
+      "max": 60.01,
+      "mean": 16.463139243676434,
+      "median": 7.74
+    },
+    "radium": {
+      "min": 0.0,
+      "max": 7.99,
+      "mean": 2.917436764337591,
+      "median": 2.41
+    },
+    "selenium": {
+      "min": 0.0,
+      "max": 0.1,
+      "mean": 0.04969070874029551,
+      "median": 0.05
+    },
+    "silver": {
+      "min": 0.0,
+      "max": 0.5,
+      "mean": 0.14764588029050837,
+      "median": 0.08
+    },
+    "uranium": {
+      "min": 0.0,
+      "max": 0.09,
+      "mean": 0.044668169296268476,
+      "median": 0.05
+    }
+  }
+}

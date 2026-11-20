@@ -1,0 +1,17 @@
+,share_exceeding,share_exceeding_if_unsafe,share_exceeding_if_safe
+arsenic,0.853,0.866,0.751
+barium,0.477,0.461,0.601
+cadmium,0.871,0.893,0.695
+chloramine,0.333,0.304,0.557
+chromium,0.698,0.677,0.858
+copper,0.291,0.291,0.293
+fluoride,0.0,0.0,0.0
+bacteria,0.651,0.653,0.634
+viruses,0.837,0.851,0.726
+lead,0.935,0.933,0.948
+nitrates,0.496,0.509,0.393
+nitrites,0.748,0.732,0.868
+mercury,0.76,0.766,0.714
+radium,0.216,0.213,0.236
+selenium,0.558,0.561,0.531
+uranium,0.61,0.625,0.492

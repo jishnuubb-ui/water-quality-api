@@ -1,0 +1,3 @@
+cluster,size,safe_rate,highest_chemicals,lowest_chemicals
+0,3875,0.193,"chloramine, perchlorate, chromium","cadmium, lead, nitrates"
+1,4111,0.04,"cadmium, lead, nitrates","chloramine, perchlorate, chromium"
